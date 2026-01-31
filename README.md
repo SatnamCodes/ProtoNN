@@ -1,2 +1,2 @@
-# Provenance
-A machine-learning experimentation system that enforces reproducibility by tracking data versions, feature transformations, model configurations, and evaluation results across runs.
+# ProtoNN
+ProtoNN is an educational, modular neural network training system built from scratch to understand object-oriented ML design and training pipelines.
