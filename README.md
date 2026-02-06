@@ -1,2 +1,1 @@
-# ProtoNN
-ProtoNN is an educational, modular neural network training system built from scratch to understand object-oriented ML design and training pipelines.
+ProtoNN is a lightweight, from-scratch neural network framework engineered for high-accuracy predictions within a minimal memory footprint. Instead of relying on heavy external libraries, I implemented custom mathematical formulations and refined learning algorithms to streamline the training process. The result is a modular, OO-based system that balances architectural clarity with production-level efficiency.
